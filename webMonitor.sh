@@ -1,5 +1,5 @@
 #bin/sh
-
+#Powered by siberia
 #定义网站路径
 webDir="/home/weaver/oa"
 
